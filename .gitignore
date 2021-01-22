@@ -1,0 +1,17 @@
+*.pyc
+.env
+*__pycache__
+venv
+.venv
+
+.env.*
+.vscode
+.pytest_cache
+node_modules
+package-lock.json
+!.env.testing
+noorator
+
+.idea
+
+.DS_Store
